@@ -1,5 +1,5 @@
 # File-Organizer 💥
-A command line file organizer which organizes different type of files present in that selected folder and put them in there respective folders.
+- A command line file organizer which organizes different type of files present in that selected folder and put them in there respective folders.
 ---------
 ### Overview 📌
 This project can do following things
